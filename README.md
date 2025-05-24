@@ -1,3 +1,7 @@
+<h1 align="center">∆ Systems in Progress</h1>
+<p align="center"><em>High-dimensional learner. Optimization under construction.</em></p>
+
+
 ### Directional Bias: Long
 
 > Modeling uncertainty with high conviction.
@@ -19,12 +23,20 @@
 ---
 
 ### Still Climbing
-- Learning probability like it decides my future
-- Building toward stochastic processes, one paper at a time
-- Collecting intuition before formalism
+- Probability theory → slowly becoming fluent 
+- Stochastic processes → queued
+- Exploring modeling where it matters: risk, inference, edge
+
+---
 
 ### Not Actively Looking — Always Listening
 - If it optimizes something interesting, I’m probably interested.
+
+---
+
+### Signal Vs. Noise
+
+
 
 ---
 
