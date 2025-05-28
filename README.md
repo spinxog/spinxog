@@ -32,7 +32,7 @@
 ---
 
 ### Still Climbing
-- Probability theory → slowly becoming fluent 
+- Probability theory → becoming fluent 
 - Stochastic processes → queued
 - Exploring modeling where it matters: risk, inference, edge
 
