@@ -4,13 +4,6 @@
 
 ---
 
-### Process: Nonstationary
-
-**Still learning. Still optimizing.**  
-*Architecture subject to change.*
-
----
-
 ### Current Mode
 - Building models that make decisions faster than humans flinch
 - Reading between the priors, Googling the rest
@@ -26,9 +19,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-> Derivatives: autodiff, financial, existential
-> 
+ 
 ---
 
 ### Still Climbing
