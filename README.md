@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=%E2%88%86+Systems+in+Progress;High-dimensional+learner;Optimization+under+construction" alt="Typing SVG" />
 </p>
 
----
+
 
 ### Current Mode
 - Building models that make decisions faster than humans flinch
