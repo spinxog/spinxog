@@ -3,15 +3,14 @@
 </p>
 
 
-
-### Current Mode
-- Building models that make decisions faster than humans flinch
-- Reading between the priors, Googling the rest
-- Sampling curiosity from every distribution I can find
+### Current Focus
+- Fast decision systems
+- Latent structure in noisy data
+- Sampling curiosity, modeling intent
 
 ---
 
-### Stack of Choice
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -19,29 +18,21 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
- 
+
 ---
 
-### Still Climbing
-- Probability theory → becoming fluent 
-- Stochastic processes → queued
-- Exploring modeling where it matters: risk, inference, edge
+### On the Horizon
+- Fluent probability
+- Queued: stochastic processes
+- Real-world modeling → inference, risk, and edge cases
 
 ---
 
 ### ∂connection/∂effort > 0
-- Still early. Still learning. Still interested.  
-- Ping if you're modeling something weird.
+- Mostly offline
+- Occasionally broadcasting
+- DM if you're building something interesting
 
 ---
 
-### Transmission
-
-- Working mostly offline
-- Broadcasting selectively
-- DM if you're building weird things with math.
-
----
-
-<p align="center"><code><em>commit frequency ≠ learning rate</em></code></p>
-
+<p align="center"><code><em>commit freq ≠ learning rate</em></code></p>
